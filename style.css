@@ -365,6 +365,10 @@ section{
   width: 70%;
 }
 
+.dart:after{
+  width: 60%;
+}
+
 section.dark{
   background-color: #353b48;
 }
@@ -733,5 +737,6 @@ footer{
     max-width: 100%;
   }
 }
+
 
 
