@@ -289,6 +289,10 @@ section{
   bottom: 0;
 }
 
+.n8n:after{
+  width: 55%;
+}
+
 .webdesign:after{
   width: 85%;
 }
@@ -303,6 +307,10 @@ section{
 
 .js:after{
   width: 70%;
+}
+
+.typescript:after{
+  width: 60%;
 }
 
 .php:after{
@@ -329,12 +337,16 @@ section{
   width: 50%;
 }
 
+.postgresql:after{
+  width: 50%;
+}
+
 .bootstrap:after {
   width: 60%;
 }
 
 .reactjs:after {
-  width: 65%;
+  width: 70%;
 }
 
 .nodejs:after {
@@ -342,7 +354,7 @@ section{
 }
 
 .expressjs:after{
-  width: 65%;
+  width: 70%;
 }
 
 .reactNative:after{
@@ -721,4 +733,5 @@ footer{
     max-width: 100%;
   }
 }
+
 
